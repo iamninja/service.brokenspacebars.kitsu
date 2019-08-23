@@ -3,6 +3,7 @@
 .DS*
 .pylint_rc
 /.idea
+/.vscode
 /.project
 /.pydevproject
 /.settings
