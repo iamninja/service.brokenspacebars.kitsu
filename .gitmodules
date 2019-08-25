@@ -1,0 +1,3 @@
+[submodule "modules/anitopy"]
+	path = modules/anitopy
+	url = https://github.com/igorcmoura/anitopy
